@@ -1,7 +1,10 @@
 {
-    "name": "mci-xslt-tool", "version": "1.0.0", "keywords": [
-        "util", "functional", "server", "client", "browser"
-    ], "author": "Thierry Lavallee <thierry.lavallee at esko.com>", "contributors": [], "dependencies": {
-
+    "name": "mci-xslt-tool",
+    "version": "1.0.0",
+    "repository": "*",
+    "license": "",
+    "dependencies": {
+        "bootstrap": "3.*",
+        "jquery": "^3.3.1"
     }
 }
