@@ -1,7 +1,12 @@
 {
-    "name": "TestCopyToClipboard", "version": "1.0.0", "main": "path/to/main.css", "ignore": [
+    "name": "mci-xslt-tool",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
         ".jshintrc", "**/*.txt"
-    ], "dependencies": {
-    }, "devDependencies": {
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
     }
 }
