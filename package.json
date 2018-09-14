@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "dependencies": {
+        "jspdf": "1.*",
         "bootstrap": "3.*",
         "jquery": "^3.3.1"
     },
