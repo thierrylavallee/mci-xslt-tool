@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "dependencies": {
-        "jspdf": "1.*",
+        "jspdf-with-html2canvas": "*",
         "bootstrap": "3.*",
         "jquery": "^3.3.1"
     },
